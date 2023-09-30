@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-around;
+  width: 20rem;
+  height: 25rem;
+  padding: 1rem;
+  border-radius: .5rem;
+  background-color: darkolivegreen;
+  overflow: hidden;
+}
+
+.title {
+  text-align: center;
+  padding-bottom: .5rem;
+  border-bottom: 2px solid #f5f5f5;
+}
+
+.paragraph {
+  font-size: 1.2rem;
+}
